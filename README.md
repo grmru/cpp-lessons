@@ -32,7 +32,7 @@ https://git-scm.com/book/ru/v2
 https://ru.stackoverflow.com/questions/674015/c-%D0%9A%D0%B0%D0%BA-%D1%80%D0%B0%D1%81%D0%BF%D0%B0%D1%80%D1%81%D0%B8%D1%82%D1%8C-json
 https://github.com/nlohmann/json
 
-Источники данных:
+Источники данных (https://habr.com/ru/articles/881814/):
 - https://nominatim.openstreetmap.org/search?format=json&q=Moscow,%20Kommunarka
 - https://ipinfo.io/77.88.55.242/geo
 
